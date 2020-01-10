@@ -78,9 +78,8 @@
                 },{
                     "url" : "https://raw.githubusercontent.com/elhazent/db-komik/master/%5BMeganebuk%5D%20DC%20Vol.01/%5BMeganebuk%5D%20DC%20Vol.01-036.jpg"
                 }
-            ]
-        },
-        "chapter_two" : [
+            ],
+            "chapter_two" : [
                 {
                     "url" : "https://raw.githubusercontent.com/elhazent/db-komik/master/%5BMeganebuk%5D%20DC%20Vol.01/%5BMeganebuk%5D%20DC%20Vol.01-037.jpg"
                 },
@@ -161,8 +160,7 @@
                 },
                 {
                     "url" : "https://raw.githubusercontent.com/elhazent/db-komik/master/%5BMeganebuk%5D%20DC%20Vol.01/%5BMeganebuk%5D%20DC%20Vol.01-063.jpg"
-                }
-                
+                } 
             ]
         }
     }
