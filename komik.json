@@ -1,7 +1,7 @@
 {
     "data" : {
         "detectiveconan" : {
-            "chapter_one" : [
+             "chapter_one" : [
                 {
                     "url" : "https://raw.githubusercontent.com/elhazent/db-komik/master/%5BMeganebuk%5D%20DC%20Vol.01/%5BMeganebuk%5D%20DC%20Vol.01-001.jpg"
                 },
@@ -160,7 +160,8 @@
                 },
                 {
                     "url" : "https://raw.githubusercontent.com/elhazent/db-komik/master/%5BMeganebuk%5D%20DC%20Vol.01/%5BMeganebuk%5D%20DC%20Vol.01-063.jpg"
-                } 
+                }
+                
             ]
         }
     }
